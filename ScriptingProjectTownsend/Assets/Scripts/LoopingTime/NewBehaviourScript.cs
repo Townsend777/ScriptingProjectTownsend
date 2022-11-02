@@ -14,8 +14,5 @@ public class NewBehaviourScript : MonoBehaviour
             print ("Hello World");
 
         }while(shouldContinue == true);
-
     }
-
-}
-    
+}    
