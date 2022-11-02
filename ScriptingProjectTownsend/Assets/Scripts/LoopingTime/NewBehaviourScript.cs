@@ -10,11 +10,10 @@ public class NewBehaviourScript : MonoBehaviour
         bool shouldContinue = false;
 
         do
-
         {
-            Print("Hello World")
+            print ("Hello World");
 
-        } while (shouldContinue == true);
+        }while(shouldContinue == true);
 
     }
 
