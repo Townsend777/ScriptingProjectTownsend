@@ -13,6 +13,6 @@ public class UpdateandFixedUpdate : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("Update Time :" + Time.deltaTime);
+        Debug.Log("Update time :" + Time.deltaTime);
     }
 }
